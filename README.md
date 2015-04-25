@@ -14,6 +14,7 @@ the sequencer tools and Notepad to design the frames, and then the player to dis
 
 ## Concepts and Language mapping
  Name         Description                    language structure
+ 
  Bracket:      A group of leds that are       [ 
  acted upon simultaneously                   ]
  
