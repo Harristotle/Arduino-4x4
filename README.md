@@ -13,15 +13,15 @@ the sequencer tools and Notepad to design the frames, and then the player to dis
 
 
 ## Concepts and Language mapping
-# Name         Description                    language structure
- #Bracket      A group of leds that are       [ 
+* Name         Description                    language structure
+ *Bracket      A group of leds that are       [ 
  acted upon simultaneously                   ]
  
- #Wait         Pause for a certain number     w 
+ *Wait         Pause for a certain number     w 
  of milliseconds. Wait maps onto the 
  arduino languge structure delay() 
  
- #pause        Set the default time to        p
+ *pause        Set the default time to        p
  pause between lighting LEDs to the 
  given number. Number can be 0-9999 msec
  
